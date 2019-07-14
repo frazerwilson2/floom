@@ -1,0 +1,77 @@
+{
+  "merchants": [
+    {
+      "id": 25123,
+      "title": "Orchidya",
+      "location": [
+        51.520436,
+        -0.1320937
+      ],
+      "radius_meters": 1500
+    },
+    {
+      "id": 512981,
+      "title": "Botanique Workshop",
+      "location": [
+        51.528883,
+        -0.1123912
+      ],
+      "radius_meters": 5000
+    }
+  ],
+  "products": [
+    {
+      "id": 1342,
+      "merchant_id": 25123,
+      "description": "A simple but charming arrangement complete with its own little jar - perfect for small spaces and office desks alike!",
+      "title": "Passion",
+      "price": 25.00,
+      "currency": "GBP",
+      "tags": [
+        "red",
+        "romance"
+      ],
+      "image_urls": [
+        "images/passion_1",
+        "images/passion_2",
+        "images/passion_3",
+        "images/passion_4"
+      ]
+    },
+    {
+      "id": 6785,
+      "description": "Jam Jar arrangement made up of Thistle, Lisianthus and Carnation.",
+      "merchant_id": 25123,
+      "title": "Tutu",
+      "price": 35.00,
+      "currency": "GBP",
+      "tags": [
+        "pink"
+      ],
+      "image_urls": [
+        "images/tutu_1",
+        "images/tutu_2",
+        "images/tutu_3",
+        "images/tutu_4"
+      ]
+    },
+    {
+      "id": 9432,
+      "description": "Stunning Autumnal Thanksgiving themed bouquet full of colour and textures",
+      "merchant_id": 512981,
+      "title": "Waterfall",
+      "price": 55.00,
+      "currency": "GBP",
+      "tags": [
+        "wild",
+        "pink"
+      ],
+      "image_urls": [
+        "images/tutu_1",
+        "images/tutu_2",
+        "images/tutu_3",
+        "images/tutu_4"
+      ]
+    }
+  ]
+}
